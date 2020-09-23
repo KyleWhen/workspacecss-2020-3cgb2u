@@ -28,6 +28,8 @@ body{
 }
 
 header h1{
+  font-family: chunkfive.svg;
+  src: chunkfive.svg;
   background-color: hsla(0,100%,63%,0.9);
 }
 
@@ -55,6 +57,9 @@ aside.sidebar{
 
 body{
     font-family: "tablet-gothic-condensed",verdana, arial, sans-serif; 
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
 }
 p{
   font-size: 1.25em;
